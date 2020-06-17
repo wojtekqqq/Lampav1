@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/slawek_mac/CLionProjects/Lampa_v1/lampa.cpp
+lampa.h
+/Users/slawek_mac/CLionProjects/Lampa_v1/lampa.h
+
+/Users/slawek_mac/CLionProjects/Lampa_v1/lampa.h
+iostream
+-
+
+/Users/slawek_mac/CLionProjects/Lampa_v1/main.cpp
+iostream
+-
+cstdlib
+-
+lampa.h
+/Users/slawek_mac/CLionProjects/Lampa_v1/lampa.h
+

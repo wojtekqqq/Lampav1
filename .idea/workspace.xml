@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Lampa_v1" targetName="Lampa_v1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85d87ec3-b391-424d-bea7-57492bfed864" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Lampa_v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/lampa.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lampa_v1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Lampa_v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Lampa_v1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lampa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lampa.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sa" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dSaBeqBLBqo3hlZP5HqFVGUArp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lampa_v1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lampa_v1" TARGET_NAME="Lampa_v1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lampa_v1" RUN_TARGET_NAME="Lampa_v1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d87ec3-b391-424d-bea7-57492bfed864" name="Default Changelist" comment="" />
+      <created>1592420813213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592420813213</updated>
+      <workItem from="1592420815721" duration="63000" />
+      <workItem from="1592420881287" duration="386000" />
+      <workItem from="1592421453220" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="331" width="743" height="434" key="#Notifications" timestamp="1592421609217">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="597" y="331" width="743" height="434" key="#Notifications/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421609217" />
+    <state x="297" y="46" key="CommitChangelistDialog2" timestamp="1592421579298">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="297" y="46" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421579298" />
+    <state width="1398" height="128" key="GridCell.Tab.0.bottom" timestamp="1592421427410">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421427410" />
+    <state width="1398" height="128" key="GridCell.Tab.0.center" timestamp="1592421427409">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421427409" />
+    <state width="1398" height="128" key="GridCell.Tab.0.left" timestamp="1592421427409">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421427409" />
+    <state width="1398" height="128" key="GridCell.Tab.0.right" timestamp="1592421427410">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421427410" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1592420876267">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592420876267" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1592420876266">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592420876266" />
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592421427466">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.877/1440.23.1920.1013@0.23.1440.877" timestamp="1592421427466" />
+  </component>
+</project>
